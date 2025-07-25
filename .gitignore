@@ -1,0 +1,12 @@
+# Ignore virtual machines and ISOs
+VMs/
+ISOs/
+
+# Also ignore common VM files just in case
+*.vdi
+*.vbox
+*.iso
+*.ova
+*.log
+*.nvr
+*.vbox-prev
